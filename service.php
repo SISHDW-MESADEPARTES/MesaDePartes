@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a mi página web</h1>
+        <h1>Welcome. This is my page</h1>
     </header>
     <nav>
         <ul>
